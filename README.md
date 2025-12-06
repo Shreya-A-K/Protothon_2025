@@ -1,8 +1,4 @@
 # Protothon_2025
-Below is a **ready-to-copy README.md** for your GitHub repo.
-It explains both solutions clearly, looks professional, and is fully hackathon-friendly.
-
----
 
 # 🏭 **Low-Cost Industrial RS485 Sensor Network with Cloud Dashboard & Future ESP32 Mesh + ML Upgrade**
 
